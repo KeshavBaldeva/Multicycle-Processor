@@ -10,5 +10,4 @@ Implementation of a complete MIPS Multicycle processor using Verilog
 <img width="354" alt="TT" src="https://github.com/KeshavBaldeva/Multicycle-Processor/assets/152970391/b4b199b2-e527-45ea-adf6-6f3877c60df7">.
 # FSM State Diagram
 <img width="551" alt="FSM" src="https://github.com/KeshavBaldeva/Multicycle-Processor/assets/152970391/b5dd189b-d75e-4d32-9298-c7995cdf1127">.
-### TO DO
-Initialize memory and instructions.
+
